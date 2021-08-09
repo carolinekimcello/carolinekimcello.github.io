@@ -331,12 +331,14 @@ main h3 {
 }
 
 .cover-heading {
-  color: rgba(2,2,2,0.6);
+  /*color: rgba(2,2,2,0.6);*/
+  color: #dfdfdf;
   font-size: 3.2em;
   font-family: 'Marcellus SC', serif;
 }
 .sub-heading {
-  color: #222;
+  /*color: #222;*/
+  color: #ccc;
   font-size: 2rem;
   border-top: 2px solid;
   font-family: 'Marcellus SC', serif;
