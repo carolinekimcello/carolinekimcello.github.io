@@ -1,2 +1,0 @@
-# carolinekimcello.github.io
-hello
